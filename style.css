@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f8f9fa;
+}
+
+header, footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    background: rgb(135, 204, 217);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+img {
+    width: 150px;
+    border-radius: 50%;
+}
